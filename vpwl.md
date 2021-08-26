@@ -11,3 +11,9 @@
 4. Waveform
 
 ![vpwl](./imgs/vpwl/3.png)
+
+> Note:
+
+As I understand, `vpwl` will create a waveform that connect the time-magnitude pairs (point in waveform) point-by-point.    
+The point is defined when (time) the user-defined waveform reach the magnitude we defined (time-magnitude pairs).    
+Useful tool.
