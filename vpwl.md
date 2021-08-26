@@ -1,0 +1,13 @@
+1. In instance page, choose `vpwl` in `analoglib`:
+
+![vpwl](./imgs/vpwl/1.png)
+
+2. `Number of pairs of points` means the time-magnitude pairs.
+
+3. Try something to see what we get if we set `vpwl` as the previous figure shows. The netlist is as follow:
+
+![vpwl](./imgs/vpwl/2.png)
+
+4. Waveform
+
+![vpwl](./imgs/vpwl/3.png)
